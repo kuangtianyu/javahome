@@ -48,6 +48,8 @@
 
 - ......
 
+- https://github.com/kuangtianyu/javahome/blob/master/image/1.png
+
   
 
 ### 二、Linux的安装
