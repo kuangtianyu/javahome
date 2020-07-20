@@ -48,7 +48,7 @@
 
 - ......
 
-- https://github.com/kuangtianyu/javahome/blob/master/image/1.png
+- ![iamge](https://github.com/kuangtianyu/javahome/blob/master/image/1.png)
 
   
 
