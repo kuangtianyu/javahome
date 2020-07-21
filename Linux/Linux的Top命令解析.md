@@ -6,7 +6,7 @@ TOP命令是Linux下常用的性能分析工具，能够实时显示系统中各
 
 TOP是一个动态显示过程,即可以通过用户按键来不断刷新当前状态.如果在前台执行该命令,它将独占前台,直到用户终止该程序为止.比较准确的说,top命令提供了实时的对系统处理器的状态监视.它将显示系统中CPU最“敏感”的任务列表.该命令可以按CPU使用.内存使用和执行时间对任务进行排序；而且该命令的很多特性都可以通过交互式命令或者在个人定制文件中进行设定.
 
-![img](D:\github\javahome\image\Top1.jpg)
+![image](https://github.com/kuangtianyu/javahome/blob/master/image/Top1.jpg)
 
  
 
@@ -16,7 +16,7 @@ TOP是一个动态显示过程,即可以通过用户按键来不断刷新当前�
 
 统计信息区前五行是系统整体的统计信息。
 
-![img](D:\github\javahome\image\Top2.jpg)
+![image](https://github.com/kuangtianyu/javahome/blob/master/image/Top2.jpg)
 
 ### 1. 第一行是任务队列信息
 
@@ -70,7 +70,7 @@ TOP是一个动态显示过程,即可以通过用户按键来不断刷新当前�
 
 统计信息区域的下方显示了各个进程的详细信息。我们来认识一下各列的含义：
 
-![img](D:\github\javahome\image\Top3.jpg)
+![image](https://github.com/kuangtianyu/javahome/blob/master/image/Top3.jpg)
 
 ### 1.列信息
 
