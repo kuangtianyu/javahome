@@ -6,7 +6,7 @@
 | ------------- | ------------------------------------------------------------ |
 | `/bin`        | 存放二进制可执行文件(`ls,cat,mkdir`等)，常用命令一般都在这里。 |
 | `/etc`        | 存放系统管理和配置文件                                       |
-| `/home`       | 存放所有用户文件的根目录，是用户主目录的基点，比如用户user的主目录就是`/home/user`，可以用~user表示  ![img](D:\github\javahome\image\home.png) |
+| `/home`       | 存放所有用户文件的根目录，是用户主目录的基点，比如用户user的主目录就是`/home/user`，可以用~user表示  ![image](https://github.com/kuangtianyu/javahome/blob/master/image/home.png) |
 | `/usr`        | 用于存放系统应用程序，比较重要的目录`/usr/local` 本地系统管理员软件安装目录（安装系统级的应用）。这是最庞大的目录，要用到的应用程序和文件几乎都在这个目录。  `/usr/x11r6`  存放x `window`的目录  `/usr/bin`  众多的应用程序     `/usr/sbin`  超级用户的一些管理程序     `/usr/doc`  `linux`文档     `/usr/include`  `linux`下开发和编译应用程序所需要的头文件     `/usr/lib`  常用的动态链接库和软件包的配置文件     `/usr/man`  帮助文档     `/usr/src`  源代码，`linux`内核的源代码就放在`/usr/src/linux`里     `/usr/local/bin`  本地增加的命令     `/usr/local/lib`  本地增加的库 |
 | `/opt`        | 额外安装的可选应用程序包所放置的位置。一般情况下，我们可以把`tomcat`等都安装到这里。 |
 | `/proc`       | 虚拟文件系统目录，是系统内存的映射。可直接访问这个目录来获取系统信息。 |
@@ -30,7 +30,7 @@
 
 `Linux`目录和`Windows`目录有着很大的不同，`Linux`目录类似一个树，最顶层是其根目录，如下图：
 
-![http://www.linuxidc.com/upload/2013_01/130105090030541.jpg](D:\github\javahome\image\Linux和window文件夹区别.jpg)
+![image](https://github.com/kuangtianyu/javahome/blob/master/image/Linux%E5%92%8Cwindow%E6%96%87%E4%BB%B6%E5%A4%B9%E5%8C%BA%E5%88%AB.jpg)
 
 `/bin` 二进制可执行命令
 
